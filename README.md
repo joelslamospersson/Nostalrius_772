@@ -76,6 +76,7 @@ Or use the provided start script:
 - Alejandro Mujica (Ezzz in otland) - Main developer and programmer of this game server
 - Kevin Luiz (long time friendship, also helped get everything fixed and stable)
 - Zakaria Ziady (compromised myself into getting the true formulas of the game server)
+- Joriku for continue support on Nostalrius project on this page ( Current github page )
 
 ## Tools
 
