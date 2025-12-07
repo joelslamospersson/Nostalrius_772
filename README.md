@@ -84,9 +84,3 @@ Or use the provided start script:
 ## Map Editor
 
 - https://github.com/TwistedScorpio/Map-Editor
-
-## Donations
-
-- If you would like to support my work and also to continue to keep me motivated in updating missing details, please, consider donating.
-- PayPal / Zelle
-- blacklabel2565@hotmail.com
