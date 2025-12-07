@@ -1,4 +1,5 @@
 #!/bin/bash
+# Credit Canary/OTServBR project
 
 BIN_PATH=${1:-"./tfs"}
 if [ -d "logs" ]
