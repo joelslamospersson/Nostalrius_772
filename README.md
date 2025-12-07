@@ -1,4 +1,4 @@
-# Nostalrius 7.7 - TFS Server
+# Nostalrius 7.7 - TFS Server ( Current: TFS 1.2 )
 
 Nostalrius is a 7.7 clone project that has been in development for a long time, it is based on TheForgottenServer 1.2 fork.
 
