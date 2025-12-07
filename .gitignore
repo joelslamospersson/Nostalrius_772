@@ -1,0 +1,43 @@
+# Build files
+build/
+vc14/
+*.exe
+*.pdb
+*.dll
+*.lastbuildstate
+*.tlog
+*.ipch
+vc14/.vs/
+vc14/x64/
+vc14/theforgottenserver.vcxproj.user
+
+# Compiled binary
+tfs
+
+# Configuration files with sensitive data
+config.lua
+
+# Logs
+logs/
+data/logs/
+*.log
+
+# Database files
+*.sql
+!data/migrations/*.sql
+
+# IDE files
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
